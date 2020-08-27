@@ -1,1 +1,1 @@
-git add means local directory to staging area
+git add means local directory to staging area and i learnt branches
